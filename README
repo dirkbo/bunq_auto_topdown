@@ -1,7 +1,7 @@
 # bunq Auto topdown
 
-Auto Topdown is a Python python script, to limit money in a bunq account to a specified amount, moving extra money
-to nanother account.
+Auto Topdown is a Python script, to limit money in a bunq account to a specified amount, moving extra money
+to another account.
 
 ## Installation
 
