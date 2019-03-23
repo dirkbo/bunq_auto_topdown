@@ -1,0 +1,17 @@
+# bunq Auto topdown
+
+Auto Topdown is a Python python script, to limit money in a bunq account to a specified amount, moving extra money
+to nanother account.
+
+## Installation
+
+Install bunq Python SDK as speciefied https://www.bunq.com/de/developer
+
+locate the tinker folder and copy this script
+
+python auto_topdown.py  --topdown_from_account NL86BUNQ9900194780 --topdown_to_account NL86BUNQ9900194780 --amount 126.00
+
+Will move any money more than 126.00 from the first account to the second.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
