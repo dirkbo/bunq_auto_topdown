@@ -7,7 +7,7 @@ to another account.
 
 Install bunq Python SDK as speciefied https://www.bunq.com/de/developer
 
-Locate the tinker folder and copy the auto_topdown.py script there.
+Locate the tinker folder and copy auto_topdown.py and share_lib.py script there.
 
 ## Usage
 

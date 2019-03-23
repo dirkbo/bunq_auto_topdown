@@ -2,7 +2,7 @@
 import argparse
 
 from libs.bunq_lib import BunqLib
-from libs.share_lib import ShareLib
+from share_lib import ShareLib
 from bunq.sdk.context import ApiEnvironmentType
 from decimal import Decimal
 from bunq.sdk.model.generated.endpoint import *
